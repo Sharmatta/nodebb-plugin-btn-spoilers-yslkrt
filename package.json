@@ -1,0 +1,28 @@
+{
+  "name": "https://github.com/Sharmatta/nodebb-plugin-btn-spoilers-yslkrt",
+  "version": "0.4.7",
+  "nbbpm": {
+    "compatibility": "^1.4.5"
+  },
+  "description": "spoilers plugin for nodeBB",
+  "main": "spoilers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharmatta/nodebb-plugin-btn-spoilers-yslkrt.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "spoilers"
+  ],
+  "author": "Danijel Marjanović <danijel84@gmail.com> (https://www.linkedin.com/in/danijel-marjanovic-0b17a536)",
+  "contributors": ["Yesilkart Forum"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharmatta/nodebb-plugin-btn-spoilers-yslkrt/issues"
+  },
+  "homepage": "https://github.com/Sharmatta/nodebb-plugin-btn-spoilers-yslkrt#readme"
+}

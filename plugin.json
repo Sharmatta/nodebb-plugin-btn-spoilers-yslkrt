@@ -1,0 +1,17 @@
+{
+    "url": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart/",
+    "library": "./spoilers.js",
+    "staticDirs": {
+        "static": "./static"
+    },
+    "less": [
+        "./static/spoilers.less"
+    ],
+    "hooks": [
+        { "hook": "filter:parse.post", "method": "parse" }
+    ],
+    "scripts": [
+        "./static/spoilers.js"
+    ]
+
+}
