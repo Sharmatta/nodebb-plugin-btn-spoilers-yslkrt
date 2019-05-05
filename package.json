@@ -2,7 +2,7 @@
   "name": "https://github.com/Sharmatta/nodebb-plugin-btn-spoilers-yslkrt",
   "version": "0.4.7",
   "nbbpm": {
-    "compatibility": "^1.4.5"
+    "compatibility": "^1.5.3"
   },
   "description": "spoilers plugin for nodeBB",
   "main": "spoilers.js",
